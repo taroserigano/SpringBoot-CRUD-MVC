@@ -1,4 +1,4 @@
-# SpringBoot-CRUD-MVC-with-Thymeleaf (with Spring-Data-Rest-API & JDBC)
+# SpringBoot-CRUD-MVC-with-Thymeleaf (with Spring-Data-JPA-API & JDBC)
 
 This is an app that lets you create, read, update and delete employees.
 The database is served by MySQL using Hibernate architecture. 
